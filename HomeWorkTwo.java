@@ -1,5 +1,5 @@
 /**
-* Java 1. HomeWork #3
+* Java 1. HomeWork #2
 *
 *@author Nikita Seleznev
 *@version 13.12.2021

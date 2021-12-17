@@ -50,13 +50,8 @@ class HomeWorkThree {
         int counter = 1;
         int [][] table = new int [3][3];
         for (int i = 0; i < 3; i++) {
-            for (int j = 0; j < 3; j++) {
-                table[0][0] = counter;
-                table[1][1] = counter;
-                table[2][2] = counter;
-                table[2][0] = counter;
-                table[0][2] = counter;
-            }
+            table[i][i] = 1;
+            table[i][table.length - i -1] = 1;
         }
         Arrays.stream(table).map(Arrays::toString).forEach(System.out::println);
     }

@@ -1,3 +1,11 @@
+/**
+* Java 1. HomeWork #4
+*
+*@author Nikita Seleznev
+*@version 21.12.2021
+*
+*/
+
 import java.util.Scanner;
 import java.util.Random;
 

@@ -1,4 +1,11 @@
-import java.util.Arrays;
+/**
+* Java 1. HomeWork #3
+*
+*@author Nikita Seleznev
+*@version 23-24.12.2021
+*
+*/
+
 
 class HomeWorkFive {
     public static void main(String[] args){

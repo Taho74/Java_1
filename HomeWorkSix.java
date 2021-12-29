@@ -1,3 +1,11 @@
+/**
+* Java 1. HomeWork #6
+*
+*@author Nikita Seleznev
+*@version 27.12.2021-29.12.2021
+*
+*/
+
 class HomeWorkSix {
     public static void main(String[] args){
         Cat cat = new Cat("Boss", 100, 0);
